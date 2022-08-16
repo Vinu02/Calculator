@@ -1,0 +1,110 @@
+body {
+    background-color:white;
+  }
+  
+
+
+
+  .title {
+    position: relative;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    color: black;
+  }
+
+
+  .calFrame {
+    position: relative;
+    left: 30%;
+    right: 30%;
+    width: 514px;
+    height: 410px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 50px;
+    border-radius: 2%;
+    border-color: rgb(0, 0, 0);
+   
+  }
+
+
+  .calcDisplay {
+    position: relative;
+    margin: 5px;
+    top: 5px;
+    background-color: rgb(89, 89, 89);
+    height: 100px;
+    color: white;
+    font-weight: bold;
+    padding-right: 10px;
+    padding-top: 5px;
+    border-radius: 0%;
+  }
+
+
+  .buttonsFrame {
+    position: relative;
+    background-color: white;
+    border-color: blue;
+    top: 2px;
+    margin: 2px;
+    border-radius: 0%;
+  }
+
+
+  button {
+    width: 120px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    top: 2px;
+    margin: 2px;
+    border-radius: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+
+  .twox {
+    width: 240px;
+  }
+ 
+  
+  .op1Dis {
+    top: 2px;
+    position: relative;
+    margin: 2px;
+    height: 32%;
+    text-align: right;
+    overflow: hidden;
+  }
+
+  .op2Dis {
+    top: 2px;
+    position: relative;
+    margin: 2px;
+    height: 32%;
+    text-align: right;
+    overflow: hidden;
+    font-size: 32px;
+  }
+  
+  .opDis {
+    top: 2px;
+    position: relative;
+    margin: 2px;
+    height: 32%;
+    text-align: right;
+    font-size: 32px;
+  }
+
+  .oprClass {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+  }
+
+  .oprClassRed {
+    background-color: black;
+    color: white;
+  }
